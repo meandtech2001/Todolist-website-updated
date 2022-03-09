@@ -1,0 +1,5 @@
+npm i express body-parser ejs mongoose lodash 
+
+look in the package file for dependencies 
+
+or just use npm i -y in terminal
